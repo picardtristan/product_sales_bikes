@@ -18,3 +18,24 @@ For the EDA we decided to use MariaDB on sqliteonline. See the code in the follo
 For the vizualisation we decided to build a dashboard on [Tableau](https://public.tableau.com/app/profile/tristan.picard/viz/Productsalesbikes2017to2021/Dashboard1)
 
 ### Conclusions
+- The more profitability category is the Bikes, then is the accessories, and after the clothing
+- For the accessories and the clothing men are first whereas for the bike women are first
+- The highest product category for the total revenue is bike. We can see that Canada is last for the bike but third for accessories and clothing.  We can recommend to put more effort to sell bikes in Canada or to understand where they buy bike
+- To resume the better gross margin:
+  -	Country => Canada
+  -	Year => 2019 (the only year with 7 months of activity)
+  -	Product category => Accessories
+  -	Age group => Seniors (64+)
+  -	Customer gender => Male
+- The worst gross margin:
+  -	Country => Australia
+  -	Year => 2017 (the only year with only bike activity)
+  -	Product category => Clothing
+  -	Age group => Young adults (25-34)
+  -	Customer gender => Female
+
+
+
+
+
+
