@@ -12,9 +12,9 @@ The dataset contains the sales of 3 categories of product in 6 countries for the
 - Tableau - Visualizations
 
 ### Exploratory Data Analysis and data cleaning
-For the EDA we decided to use MariaDB on sqliteonline. See the code in the following link: 
+For the EDA we decided to use MariaDB on sqliteonline. See the code in the following link: [SQL script](https://github.com/picardtristan/product_sales_bikes/blob/main/Project%20Product%20sales%20script%20SQL.sql)
 
 ### Data visualization
-For the vizualisation we decided to build a dashboard on 
+For the vizualisation we decided to build a dashboard on [Tableau](https://public.tableau.com/app/profile/tristan.picard/viz/Productsalesbikes2017to2021/Dashboard1)
 
 ### Conclusions
